@@ -1,0 +1,43 @@
+{
+  "name": "gulp-un-css",
+  "version": "0.0.1",
+  "description": "Remove unused CSS selectors.",
+  "license": "MIT",
+  "homepage": "https://github.com/bcguan2008/gulp-un-css",
+  "author": {
+    "name": "Ben Guan",
+    "email": "148135244@qq.com"
+  },
+  "scripts": {
+    "test": "tape test.js | tap-spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bcguan2008/gulp-un-css.git"
+  },
+  "keywords": [
+    "unused",
+    "css",
+    "gulpplugin"
+  ],
+  "dependencies": {
+    "gulp-util": "~3.0.6",
+    "object-assign": "^3.0.0",
+    "un-css": "^0.0.1"
+  },
+  "devDependencies": {
+    "tap-spec": "^4.0.2",
+    "tape": "^4.0.1"
+  },
+  "main": "index.js",
+  "gitHead": "b95c12563f9a960945d849b255d889d7818e268d",
+  "bugs": {
+    "url": "https://github.com/bcguan2008/gulp-un-css/issues"
+  },
+  "_npmUser": {
+    "name": "bcguan",
+    "email": "148135244@qq.com"
+  },
+  "directories": {},
+  "readme": "ERROR: No README data found!"
+}
